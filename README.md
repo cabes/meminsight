@@ -249,6 +249,7 @@ open `http://localhost:9000` in your browser to view the GUI.
 ### Issue Table View
 
 ![Issue Table View](/doc/screenshots/table-view.png?raw=true "Issue Table View")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fmeminsight.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fmeminsight?ref=badge_shield)
 
 When opened, the GUI first shows the issue table view, as seen above.
 Note that it may take some time for this page to load, as the server
@@ -303,3 +304,7 @@ License
 
 MemInsight is distributed under the
 [Apache License](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fmeminsight.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fmeminsight?ref=badge_large)
